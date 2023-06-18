@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cengiz-ergun
+- 👋 Hi, I’m Cengiz Ergün
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning next/react
 
